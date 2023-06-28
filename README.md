@@ -72,7 +72,7 @@ Os 3 principais insights gerados foram:
 #### H4 - Lojas com promoções ativas por mais tempo deveriam vender mais.
 Hipótese falsa. Foi observado que as vendas caíram em toda a rede em promoções extendidas ativas há mais de 220 semanas.
 
-<img src="https://github.com/wesleysantosds/rossmann_sales_prediction/blob/main/img/hyp_4.png">
+<img src="https://github.com/wesleysantosds/rossmann_sales_prediction/blob/main/img/hyp_4.PNG">
 
 * Insight de negócio: Descontinuar as promoções extendidas ativas ao atingirem no máximo 220 semanas, mantendo apenas promoções pontuais, ou realizando novas campanhas promocionais.
 
