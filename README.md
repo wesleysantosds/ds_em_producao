@@ -120,10 +120,10 @@ O objetivo do projeto foi alcançado, resolvendo o problema inicial de previsibi
 
 Além disso, o projeto também viabilizou uma melhoria na gestão financeira da Rossmann, através de uma melhor gestão de fluxo de caixa.
 
-O previsão de vendas implementada via bot do Telegram pode ser vista em funcionamento aqui: [Youtube](https://youtube.com/shorts/3D4hMS0L6Qo?feature=share)
+O previsão de vendas implementada via bot do Telegram pode ser vista em funcionamento aqui: [Youtube](https://youtube.com/shorts/3D4hMS0L6Qo?feature=share).
 
-Você pode acessar o bot do telegram através [deste link](t.me/pharmacy_rossmann_bot)
+Você pode acessar o bot do telegram através [desse link](t.me/pharmacy_rossmann_bot).
 
 
 ## 8 Referências
-* O Dataset foi obtido no [Kaggle](https://www.kaggle.com/c/rossmann-store-sales)
+* O Dataset foi obtido no [Kaggle](https://www.kaggle.com/c/rossmann-store-sales).
