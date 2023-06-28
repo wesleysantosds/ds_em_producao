@@ -44,7 +44,7 @@ Segue abaixo uma breve ilustração das principais etapas desse processo:
 
 <br>
 <div align="center">
-<img src="img/CRISP.png" width="700px">
+<img src="img/crisp.png" width="700px">
 </div>
 <br>
 
