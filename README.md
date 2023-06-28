@@ -79,14 +79,14 @@ Hipótese falsa. Foi observado que as vendas caíram em toda a rede em promoçõ
 #### H9 - Lojas deveriam vender mais no segundo semestre do ano.
 Hipótese falsa. Foi observado que com exceção do mês de julho, as vendas são aproximadamente 1/3 menores nos 5 últimos meses do ano. 
 
-<img src="https://github.com/wesleysantosds/rossmann_sales_prediction/blob/main/img/hyp_9.png" alt="h9" title="Vendas x Meses do Ano" align="center" height="380" class="center"/>
+<img src="https://github.com/wesleysantosds/rossmann_sales_prediction/blob/main/img/hyp_9.PNG">
 
 * Insight de negócio: Considerar o declínio sazonal histórico de vendas entre os meses de agosto a dezembro, compensando este fenômeno como ações de marketing adicionais.  
 
 #### H12 - Lojas deveriam vender menos durante os feriados escolares.
 Hipótese verdadeira. Na média anual, as lojas vendem menos em feriados escolares. Avaliando mensalmente, a exceção é o mês de agosto.
 
-<img src="https://github.com/wesleysantosds/rossmann_sales_prediction/blob/main/img/hyp_12.png" alt="h12" title="Vendas x Meses do Ano em Feriados" align="center" height="380" class="center"/>
+<img src="https://github.com/wesleysantosds/rossmann_sales_prediction/blob/main/img/hyp_12.PNG">
 
 * Insight de negócio: Considerar um maior aproveitamento deste aumento de vendas nos feriados escolares de julho e agosto, elaborando promoções focadas em clientes nas faixas etárias escolares.
 
@@ -98,7 +98,7 @@ Desta forma, a cada predição para 6 semanas, o modelo erra em torno de R$760 p
 
 Uma comparação entre vendas reais e vendas previstas pode ser vista abaixo:
 
-<img src="https://github.com/wesleysantosds/rossmann_sales_prediction/blob/main/img/ml_model_results.png" alt="ml_model_results" title="Vendas por dia nas próximas 6 semanas" align="center" height="380" class="center"/>
+<img src="https://github.com/wesleysantosds/rossmann_sales_prediction/blob/main/img/ml_model_results.png">
 
 ## 6. Resultados financeiros para o negócio
 As previsões de vendas da Rossmann, eram até antes deste projeto realizadas por meio de planilhas de histórico de venda, através de uma média móvel. A taxa de erros desta previsão de vendas de toda a rede ficava na média de 36%, chegando a até 60% nas lojas mais recentes.
@@ -109,10 +109,11 @@ Essa redução do erro de 25% em média, propiciou que o CFO fosse muito mais as
 
 Como resultado final, temos os seguintes cenários:
 
-Scenario	Values
-predictions	R$287,024,320.00
-worst_scenario	R$286,173,202.95
-best_scenario	R$287,875,399.16
+| Scenario         |           Values |
+| :--------------- | ---------------: |
+| predictions      | R$287,024,320.00 |
+| worst_scenario   | R$286,173,202.95 |
+| best_scenario    | R$287,875,399.16 |
 
 ## 7. Conclusão
 O objetivo do projeto foi alcançado, resolvendo o problema inicial de previsibilidade de faturamento enfrentado pelo CFO. 
