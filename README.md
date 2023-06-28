@@ -122,7 +122,7 @@ Além disso, o projeto também viabilizou uma melhoria na gestão financeira da 
 
 O previsão de vendas implementada via bot do Telegram pode ser vista em funcionamento aqui: [Youtube](https://youtube.com/shorts/3D4hMS0L6Qo?feature=share).
 
-Você pode acessar o bot do telegram através [desse link](t.me/pharmacy_rossmann_bot).
+Você pode acessar o bot do telegram através [desse link](https://t.me/pharmacy_rossmann_bot).
 
 
 ## 8 Referências
