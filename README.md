@@ -98,7 +98,7 @@ Desta forma, a cada predição para 6 semanas, o modelo erra em torno de R$760 p
 
 Uma comparação entre vendas reais e vendas previstas pode ser vista abaixo:
 
-<img src="https://github.com/wesleysantosds/rossmann_sales_prediction/blob/main/img/ml_model_results.png">
+<img src="https://github.com/wesleysantosds/rossmann_sales_prediction/blob/main/img/ml_model_results.PNG">
 
 ## 6. Resultados financeiros para o negócio
 As previsões de vendas da Rossmann, eram até antes deste projeto realizadas por meio de planilhas de histórico de venda, através de uma média móvel. A taxa de erros desta previsão de vendas de toda a rede ficava na média de 36%, chegando a até 60% nas lojas mais recentes.
