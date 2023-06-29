@@ -81,7 +81,7 @@ Hipótese falsa. Foi observado que com exceção do mês de julho, as vendas sã
 
 <img src="https://github.com/wesleysantosds/rossmann_sales_prediction/blob/main/img/hyp_9.PNG">
 
-* Insight de negócio: Considerar o declínio sazonal histórico de vendas entre os meses de agosto a dezembro, compensando este fenômeno como ações de marketing adicionais.  
+* Insight de negócio: Considerar o declínio sazonal histórico de vendas entre os meses de agosto a dezembro, compensando este fenômeno com ações de marketing adicionais.  
 
 #### H12 - Lojas deveriam vender menos durante os feriados escolares.
 Hipótese verdadeira. Na média anual, as lojas vendem menos em feriados escolares. Avaliando mensalmente, a exceção é o mês de agosto.
@@ -101,7 +101,7 @@ Uma comparação entre vendas reais e vendas previstas pode ser vista abaixo:
 <img src="https://github.com/wesleysantosds/rossmann_sales_prediction/blob/main/img/ml_model_results.PNG">
 
 ## 6. Resultados financeiros para o negócio
-As previsões de vendas da Rossmann, eram até antes deste projeto realizadas por meio de planilhas de histórico de venda, através de uma média móvel. A taxa de erros desta previsão de vendas de toda a rede ficava na média de 36%, chegando a até 60% nas lojas mais recentes.
+As previsões de vendas da Rossmann eram, até antes deste projeto, realizadas por meio de planilhas de histórico de vendas, através de uma média móvel. A taxa de erros desta previsão de vendas de toda a rede ficava na média de 36%, chegando até 60% nas lojas mais recentes.
 
 Após a implementação deste modelo de previsão de vendas com machine learning, a taxa de erro média das previsões em toda a rede passou para 11%.
 
